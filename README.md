@@ -1,6 +1,6 @@
 # canvas-game
 
-Empty project.
+[Live Demo](https://reliable-cendol-3d6865.netlify.app/)
 
 ## Building and running on localhost
 
