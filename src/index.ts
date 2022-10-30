@@ -127,8 +127,6 @@ function animate(time?: number) {
     });
     enemies = enemies.map((item, index) => {
       if (shouldBeRemoved.enemies.indexOf(index) > -1) {
-        console.log(item);
-
         gsap.to(item, {
           radius: item.radius - 10,
           duration: 0.2,
